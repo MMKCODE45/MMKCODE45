@@ -1,6 +1,7 @@
 # Hi there, I'm Metha Moeti Kgolwane! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](https://chat.openai.com/file-2xOynUgisxgGKb8LyeyQkfeB)
+
 
 ## 🌍 About Me
 - 🎓 **Master's Candidate** at the **University of Botswana**, with a focus on **Deep Learning** and **Artificial Intelligence**.
