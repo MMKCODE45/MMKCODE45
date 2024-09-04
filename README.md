@@ -133,13 +133,7 @@
 - **Certifications**
   - **Cisco Networking Academy**: IT Essentials Certificate (2021)
 
-## 👨‍💼 Professional Experience
-### Systems Analyst Intern - Princess Marina Hospital (Jan 2023 – July 2023)
-- **Responsibilities**: 
-  - Conducted comprehensive data analysis and system audits.
-  - Optimized existing database systems to improve performance and efficiency.
-  - Provided technical support for system upgrades and troubleshooting.
-  - Collaborated with IT staff to implement new software solutions.
+## 👨‍💼 Voluntarism
 
 ### Editor in Chief - BAC Connect (May 2023 – May 2024)
 - **Responsibilities**: 
@@ -152,8 +146,10 @@
   - Planned and coordinated campus events, including concerts, social gatherings, and cultural activities.
   - Managed budgets and resources to ensure successful event execution.
 
-## 🌟 Fun Fact
-- 🚗 I worked as an InDriver covering Greater Gaborone and surrounding areas for 3 months, navigating the city's bustling streets and meeting diverse people!
+## Fun Fact
+
+Did you know? I once built a neural network to predict the best time to water plants based on weather data and soil moisture levels. 🌱🤖
+
 
 ## 📄 CV
 For a detailed look at my experience and skills, check out my [CV](link-to-your-cv).
