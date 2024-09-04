@@ -116,6 +116,7 @@
 
 
 
+
 ### Soft Skills
 - **Analytical Thinking**: Strong problem-solving abilities, adept at breaking down complex issues.
 - **Communication**: Excellent written and verbal communication, capable of conveying technical concepts to non-technical audiences.
