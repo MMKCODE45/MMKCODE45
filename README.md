@@ -24,10 +24,26 @@
 - **Key Features**: Weather API integration, wardrobe management, occasion-based recommendations.
 - **Tech Stack**: React Native, Firebase, RESTful APIs.
 
-### 4. [CET341 Assignment](https://github.com/MMKCODE45/CET341-Assignment)
-- **Description**: Academic project focused on system design and implementation.
-- **Key Features**: Database design, system architecture, implementation of CRUD operations.
-- **Tech Stack**: Java, MySQL, Hibernate.
+### 4. # ChatBot using PyTorch
+
+## 📝 Overview
+This project is a simple **conversational chatbot** built using **PyTorch**. It uses a pre-trained neural network to classify user input into predefined intents and provides appropriate responses. The chatbot processes text with **Natural Language Processing (NLP)** techniques, such as tokenization, stemming, and the bag-of-words model.
+
+## ✨ Features
+- **Deep Learning**: Powered by a multi-layer neural network implemented with PyTorch.
+- **NLP Techniques**: Processes user input using tokenization, stemming, and a bag-of-words approach.
+- **Customizable Intents**: Easily modify the chatbot’s responses by editing the `intents.json` file.
+- **Real-time Interaction**: Engage with the chatbot directly through the command line interface.
+
+## 📁 Project Structure
+```bash
+├── data.pth             # Trained model parameters
+├── intents.json         # Dataset of patterns, responses, and intents
+├── model.py             # Neural network model definition
+├── nltk_utils.py        # NLP helper functions (tokenization, stemming, bag-of-words)
+├── train.py             # Script to train the chatbot model
+└── chat.py              # Script to interact with the trained chatbot
+
 
 ## 👨‍💻 Technical Skills
 ### Programming Languages
