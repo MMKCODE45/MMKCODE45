@@ -35,14 +35,7 @@ This project is a simple **conversational chatbot** built using **PyTorch**. It 
 - **Customizable Intents**: Easily modify the chatbot’s responses by editing the `intents.json` file.
 - **Real-time Interaction**: Engage with the chatbot directly through the command line interface.
 
-## 📁 Project Structure
-```bash
-├── data.pth             # Trained model parameters
-├── intents.json         # Dataset of patterns, responses, and intents
-├── model.py             # Neural network model definition
-├── nltk_utils.py        # NLP helper functions (tokenization, stemming, bag-of-words)
-├── train.py             # Script to train the chatbot model
-└── chat.py              # Script to interact with the trained chatbot
+## 
 
 
 ## 👨‍💻 Technical Skills
